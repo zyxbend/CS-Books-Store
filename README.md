@@ -19,29 +19,6 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 可以说，你想要的，这里都有！
 
-<h1 align="left">About</h1>
-
-<p align="center"  font-size="18px">
-  <a href="https://www.zhihu.com/people/sharetechlee/activities">
-知乎：Jackpop</a>   | 
-  <a href="https://space.bilibili.com/353631242/video">B站：资源索引</a>  |       
-  <a href="https://mp.weixin.qq.com/s/hTZAGgkiMS0XPZ9OHQxFJg" rel="nofollow">公众号：平凡而诗意</a>     
-</p>    
-
-**作者简介**：硕士毕业于哈尔滨工业大学，曾先后就职于华为、阿里巴巴，具有多年互联网、IT行业工作经验。
-
-多年以来坚持在微信公众号、知乎等平台进行免费分享，收获到不少读者的喜爱。
-
-希望我的分享能够惠及到更多同学，如果你对升学、职场、工作等内容感兴趣，可以和我进行交流！
-
-最后，欢迎大家关注我的**公众号：平凡而诗意**，一个开发人员进阶提升的优秀平台！
-
-**问题反馈**：如果书籍无法下载，或者链接失效，请添加我的个人微信**code_7steps**咨询，请备注**git**！
-
-<p align="center">
-    <img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260"></img>
-</p>
-
 
 <h1 align="left">Contents</h1>
 
